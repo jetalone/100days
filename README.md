@@ -9,5 +9,6 @@ Day 004 -- Rock, Paper, Scissors
 Day 005 -- Password Generator  
 Day 006 -- Maze Runner  
 Day 007 -- Hangman  
-Day 008 -- Caesar Cipher
+Day 008 -- Caesar Cipher  
+Day 009 -- Silent Auction
 
