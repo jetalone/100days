@@ -10,5 +10,6 @@ Day 005 -- Password Generator
 Day 006 -- Maze Runner  
 Day 007 -- Hangman  
 Day 008 -- Caesar Cipher  
-Day 009 -- Blind Auction
+Day 009 -- Blind Auction  
+Day 010 -- Calculator
 
