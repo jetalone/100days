@@ -13,7 +13,7 @@ print ( '''
                        .-------------.
                       /_______________\\
 ''')
-print ("Welcome to the secret auction!")
+print ("Welcome to the blind auction!")
 bidders= {}
 bidlist = []
 gameover= False
