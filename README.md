@@ -6,3 +6,4 @@ Day 003 -- Treasure Island
 Day 004 -- Rock, Paper, Scissors
 Day 005 -- Password Generator
 Day 006 -- Maze Crawler
+Day 007 -- Hangman
