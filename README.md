@@ -7,3 +7,4 @@ Day 004 -- Rock, Paper, Scissors
 Day 005 -- Password Generator
 Day 006 -- Maze Crawler
 Day 007 -- Hangman
+Day 008 -- Caesar Cypher
