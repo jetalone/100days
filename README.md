@@ -9,3 +9,4 @@ Day 006 -- Maze Crawler
 Day 007 -- Hangman
 Day 008 -- Caesar Cypher
 Day 009 -- Secret Auction
+Day 010 -- Calculator
