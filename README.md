@@ -11,3 +11,4 @@ Day 008 -- Caesar Cypher
 Day 009 -- Secret Auction
 Day 010 -- Calculator
 Day 011 -- Blackjack
+Day 012 -- Number Guessing Game
