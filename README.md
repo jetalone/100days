@@ -13,3 +13,5 @@ Day 010 -- Calculator
 Day 011 -- Blackjack
 Day 012 -- Number Guessing Game
 Day 013 -- Debugging Fizz Buzz
+Day 014 -- High/Low Game
+Day 015 -- Coffee Machine
