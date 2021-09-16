@@ -19,3 +19,5 @@ Day 016 -- OOP Coffee Machine
 Day 017 -- Trivia Quiz
 Day 018 -- Spirograph
 Day 019 -- Turtle Race
+Day 020 -- Snake Game Pt 1
+Day 021 -- Snake Game Pt 2
