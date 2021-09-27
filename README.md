@@ -25,4 +25,4 @@ Day 022 -- Pong
 Day 023 -- Turtle Crossing
 Day 024 -- Snake High Score and Letter
 Day 025 -- Name States Game
-Day 026 -- NATO Alphabet
+Day 026 -- NATO Alphabet Converter
