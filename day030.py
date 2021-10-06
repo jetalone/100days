@@ -1,1 +1,1 @@
-#day30 password manager
+#day30 password manager exeptions
