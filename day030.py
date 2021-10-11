@@ -1,1 +1,1 @@
-#day30 password manager exeptions.
+#day30 password manager exeptions json.
