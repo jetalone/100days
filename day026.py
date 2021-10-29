@@ -34,10 +34,18 @@ newdict = {row.letter:row.code for (index,row) in data.iterrows()}
 
 #print (newdict)
 
+def generate_phonetic():
+    word = input("Enter a word to be converted: ").upper()
 
-word = input("Enter a word to be converted: ").upper()
-outlist = [newdict[letter] for letter in word]
-print (outlist)
+    try:
+        outlist = [newdict[letter] for letter in word]
+    except KeyError:
+        print("Please enter only letters")
+        generate_phonetic()
+    else:
+        print(outlist)
+
+generate_phonetic()
 
 
 
